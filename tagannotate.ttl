@@ -12,3 +12,12 @@ tag:2 rdf:type oa:Annotation;
   oa:hasTarget <https://www.nikkei.com/article/DGXMZO24103660Q7A131C1CN8000/>;
   oa:hasBody geojp:愛知県名古屋市;
   oa:motivatedBy oa:tagging.
+  
+tag:601 rdf:type oa:Annotation;
+  oa:hasTarget <https://www.pref.aichi.jp/uploaded/attachment/37910.pdf>;
+  oa:hasBody sp:災害;
+  oa:motivatedBy oa:tagging.
+tag:602 rdf:type oa:Annotation;
+  oa:hasTarget <https://www.pref.aichi.jp/uploaded/attachment/37910.pdf>;
+  oa:hasBody geojp:愛知県;
+  oa:motivatedBy oa:tagging.
